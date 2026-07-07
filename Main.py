@@ -128,3 +128,5 @@ while True:
     elif opcion == 6:
         print("Programa finalizado.")
         break
+
+# nota final normalmente yo trabajo usando match-case para este tipo de menú, pero para mantener con lo que se impartio en clase lo deje con if-elif-else.    
