@@ -2,7 +2,7 @@ codigo de evaluacion transversal por santiago moreno
 
 esta dividido en 3 archivos para hacer mas comoda su lectura y funcionamiento siendo
 
-"MAIN.PY" quien ejecuta el codigo principal como interfaz e interacion con el usuario
+"Main.PY" quien ejecuta el codigo principal como interfaz e interacion con el usuario
 
 "Functions.py" como dice su nombre guarda todas las funciones y validaciones, es llamado por "main.py" verificando todo lo que se pida y entregue el usuario asi como comunicarse
 con "BD.py" para insertar,obtener o eliminar datos de la base de datos
